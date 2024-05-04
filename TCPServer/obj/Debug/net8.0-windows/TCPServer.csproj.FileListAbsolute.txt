@@ -14,3 +14,7 @@ C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Deb
 C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\TCPServer.pdb
 C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\TCPServer.genruntimeconfig.cache
 C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\ref\TCPServer.dll
+C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\TCPServer.sourcelink.json
+C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\bin\Debug\net8.0-windows\SuperSimpleTcp.dll
+C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Andersson Beaz\OneDrive\Documentos\ProyectosC#\Client\TCPServer\obj\Debug\net8.0-windows\TCPServer.csproj.Up2Date

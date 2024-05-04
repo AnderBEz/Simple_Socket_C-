@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|c:\\users\\andersson beaz\\onedrive\\documentos\\proyectosc#\\client\\tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\clientvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|solutionrelative:clientvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809F45D2-751B-4ED2-8C77-C466EA1AA98E}|Client\\Client.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809F45D2-751B-4ED2-8C77-C466EA1AA98E}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|c:\\users\\andersson beaz\\onedrive\\documentos\\proyectosc#\\client\\tcpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\clientvisual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|solutionrelative:clientvisual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|c:\\users\\andersson beaz\\onedrive\\documentos\\proyectosc#\\client\\clientvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\clientvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39209BFC-2109-43D9-B6B8-485CF6CBA8F8}|ClientVisual\\ClientVisual.csproj|solutionrelative:clientvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809F45D2-751B-4ED2-8C77-C466EA1AA98E}|Client\\Client.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809F45D2-751B-4ED2-8C77-C466EA1AA98E}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72705C2B-ED40-47C3-A83C-8AE78489D672}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\TCPServer\\Server.cs",
-              "RelativeDocumentMoniker": "TCPServer\\Server.cs",
-              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\TCPServer\\Server.cs",
-              "RelativeToolTip": "TCPServer\\Server.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAAZAAAA",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientVisual\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs",
+              "RelativeToolTip": "ClientVisual\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:09:22.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T03:33:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientVisual\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs [Design]",
+              "RelativeToolTip": "ClientVisual\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:32:34.038Z"
             },
             {
               "$type": "Document",
@@ -61,14 +59,14 @@
               "RelativeDocumentMoniker": "TCPServer\\Form1.cs",
               "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\TCPServer\\Form1.cs",
               "RelativeToolTip": "TCPServer\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwE8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T20:01:35.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\TCPServer\\Form1.cs",
               "RelativeDocumentMoniker": "TCPServer\\Form1.cs",
@@ -77,57 +75,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T19:46:52.159Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Program.cs",
-              "RelativeDocumentMoniker": "ClientVisual\\Program.cs",
-              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Program.cs",
-              "RelativeToolTip": "ClientVisual\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:08:28.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs",
-              "RelativeDocumentMoniker": "ClientVisual\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\Form1.cs [Design]",
-              "RelativeToolTip": "ClientVisual\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T06:49:42.161Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\Client\\Client.cs",
-              "RelativeDocumentMoniker": "Client\\Client.cs",
-              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\Client\\Client.cs",
-              "RelativeToolTip": "Client\\Client.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwCAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:23:49.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:23:28.531Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -31,9 +31,7 @@
             listUsers = new ListBox();
             txtChat = new TextBox();
             lbIP = new Label();
-            lblPort = new Label();
             txtIP = new TextBox();
-            txtPort = new TextBox();
             btnStart = new Button();
             btnSend = new Button();
             txtMsg = new TextBox();
@@ -61,39 +59,23 @@
             // lbIP
             // 
             lbIP.AutoSize = true;
-            lbIP.Location = new Point(34, 37);
+            lbIP.Location = new Point(189, 37);
             lbIP.Name = "lbIP";
             lbIP.Size = new Size(24, 20);
             lbIP.TabIndex = 17;
             lbIP.Text = "IP:";
             // 
-            // lblPort
-            // 
-            lblPort.AutoSize = true;
-            lblPort.Location = new Point(342, 41);
-            lblPort.Name = "lblPort";
-            lblPort.Size = new Size(55, 20);
-            lblPort.TabIndex = 16;
-            lblPort.Text = "Puerto:";
-            // 
             // txtIP
             // 
-            txtIP.Location = new Point(64, 34);
+            txtIP.Location = new Point(232, 34);
             txtIP.Name = "txtIP";
             txtIP.Size = new Size(253, 27);
             txtIP.TabIndex = 15;
             // 
-            // txtPort
-            // 
-            txtPort.Location = new Point(403, 37);
-            txtPort.Name = "txtPort";
-            txtPort.Size = new Size(167, 27);
-            txtPort.TabIndex = 14;
-            // 
             // btnStart
             // 
             btnStart.BackColor = Color.PaleGreen;
-            btnStart.Location = new Point(649, 37);
+            btnStart.Location = new Point(523, 34);
             btnStart.Name = "btnStart";
             btnStart.Size = new Size(94, 29);
             btnStart.TabIndex = 18;
@@ -110,6 +92,7 @@
             btnSend.TabIndex = 19;
             btnSend.Text = "Enviar";
             btnSend.UseVisualStyleBackColor = false;
+            btnSend.Click += btnSend_Click;
             // 
             // txtMsg
             // 
@@ -127,9 +110,7 @@
             Controls.Add(btnSend);
             Controls.Add(btnStart);
             Controls.Add(lbIP);
-            Controls.Add(lblPort);
             Controls.Add(txtIP);
-            Controls.Add(txtPort);
             Controls.Add(txtChat);
             Controls.Add(listUsers);
             Name = "Form1";
@@ -144,9 +125,7 @@
         private ListBox listUsers;
         private TextBox txtChat;
         private Label lbIP;
-        private Label lblPort;
         private TextBox txtIP;
-        private TextBox txtPort;
         private Button btnStart;
         private Button btnSend;
         private TextBox txtMsg;

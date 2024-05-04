@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LGR3GCb4v66FpULfGblhFqN14JONeEBK9e4+cKGoUbmfVdNHx757kKKgD/M4POUFP3a/ODCuegV+DoE6uaXaNw==",
+  "dgSpecHash": "eXbVs+IP3uNJXijP5sMQ9IYFKMSSymOk/bT6BPm/oE51zpsnGGmIcDHNH+Xco1rHhQ7npxDSfhUmukY7xwnBhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\TCPServer\\TCPServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Andersson Beaz\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

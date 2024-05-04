@@ -56,6 +56,7 @@
             btnSend.TabIndex = 3;
             btnSend.Text = "Enviar";
             btnSend.UseVisualStyleBackColor = false;
+            btnSend.Click += btnSend_Click;
             // 
             // txtPort
             // 
@@ -114,6 +115,7 @@
             btnConnect.TabIndex = 10;
             btnConnect.Text = "Conectar";
             btnConnect.UseVisualStyleBackColor = false;
+            btnConnect.Click += btnConnect_Click;
             // 
             // txtChat
             // 

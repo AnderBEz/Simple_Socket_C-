@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ujjq/fvBrR3QV1QHgC/ltIfQFd3ZnKu60dNIoJI/z4OctfFT9YJzzmlDXMQeUNy1S28TY15aTQMta9GfsCxBkw==",
+  "dgSpecHash": "Ir9KKMGcG5JC71+eT0F9NSc3UBPd6QqXBxInlnB8DzSJ28gDc1G8wRo6rkmLjApfLC6GhVqsH/2bAr1pQg/TSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andersson Beaz\\OneDrive\\Documentos\\ProyectosC#\\Client\\ClientVisual\\ClientVisual.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Andersson Beaz\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
